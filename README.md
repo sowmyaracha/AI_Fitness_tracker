@@ -1,5 +1,6 @@
 
 # 🏋️ AI Fitness Tracker
+LIVE DEMO: https://fitness-tracker-frontent.onrender.com
 
 An intelligent, full-stack fitness tracking web application that helps users set goals, log workouts, monitor progress, and receive AI-powered recommendations — all in one place.
 
